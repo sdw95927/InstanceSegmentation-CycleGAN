@@ -1,6 +1,6 @@
-# InstanceSegmentation-CyC-GAN
+# InstanceSegmentation-CycleGAN
 
-An instance segmentation network for unsupervised domain adaptation based on CyC-GAN.
+An instance segmentation network for unsupervised domain adaptation based on CycleGAN.
 
 ## Task overview
 
