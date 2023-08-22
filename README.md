@@ -44,4 +44,4 @@ torchvision==0.5.0
 
 ## Citation:
 
-___Temporarily unavailable___
+Wang S, Rong R, Gu Z, Fujimoto J, Zhan X, Xie Y, Xiao G. Unsupervised Domain Adaptation for Nuclei Segmentation: Adapting from Hematoxylin & Eosin Stained Slides to Immunohistochemistry Stained Slides Using a Curriculum Approach. Computer Methods and Programs in Biomedicine. 2023 Aug 19:107768.
